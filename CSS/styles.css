@@ -1,0 +1,43 @@
+.tPattern1 {
+  text-align: center;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.underPattern1 {
+  text-align: center;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.pPattern1 {
+  text-align: justify;
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: bold;
+}
+
+table {
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+th,
+td {
+  padding: 10px;
+  border: 1px solid aqua;
+  color: #F66D13;
+}
+
+.container-fluid {
+  background: rgb(118, 9, 121);
+  background: linear-gradient(90deg, rgba(118, 9, 121, 1) 35%, rgba(0, 212, 255, 1) 100%);
+}
+
+script {
+  align-items: center;
+}
